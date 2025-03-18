@@ -30,7 +30,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 | Integrante | Evaluación Cisco |
 |--------------|--------------|
 
-| Cecilia Aurora Robelo Hernández | ![image](https://github.com/user-attachments/assets/93f6aea4-e525-43c1-bd62-8e86761dc441)|
+| Cecilia Aurora Robelo Hernández | ![image](https://github.com/bryanEAL/im-genes/blob/main/imagen_2025-03-18_133538114.png)|
 
 | Integrante | Evaluación de Unidad 2 |
 |--------------|--------------|
