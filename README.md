@@ -8,10 +8,10 @@
 | Nombre | Bryan Emilio Arredondo López |
 |--------------|--------------|
 | Numero de control | 1223100380 |
-| Grupo | GDS0652 |
+| Grupo | GDS0653 |
 
 
-📅 *Fecha de entrega:* 16/03/2025
+📅 *Fecha de entrega:* 
 
 
 ## 📌 Descripción
@@ -29,12 +29,12 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
   
 | Integrante | Evaluación Cisco |
 |--------------|--------------|
-|Jennifer Ailin Medina Hernández | ![Imagen de WhatsApp 2025-03-14 a las 21 38 14_fcdc44c8](https://github.com/user-attachments/assets/49746ed3-0b09-4cb9-8c69-0d1323fa6a37)|
+
 | Cecilia Aurora Robelo Hernández | ![image](https://github.com/user-attachments/assets/93f6aea4-e525-43c1-bd62-8e86761dc441)|
 
 | Integrante | Evaluación de Unidad 2 |
 |--------------|--------------|
-|Jennifer Ailin Medina Hernández | ![Imagen de WhatsApp 2025-03-14 a las 13 28 56_e96c77cf](https://github.com/user-attachments/assets/1775007c-b635-4414-a3ea-9faf261042cd)|
+
 | Cecilia Aurora Robelo Hernández | ![Imagen de WhatsApp 2025-03-14 a las 13 17 40_f75ad2ab](https://github.com/user-attachments/assets/2ff03deb-04f1-4bd5-876c-1b3cbf1f5629)|
 
 ### 🛠 Parte Práctica Pareja
@@ -46,7 +46,6 @@ Realización de videos prácticos con Sensores y Actuadores
 
 | Integrante | Link Drive |
 |-------------|--------------|
-| Jennifer Ailin Medina Hernández | [link de drive](https://drive.google.com/drive/folders/1JuTReTSXgN_EZ8mCqOGC7w0-O1bLq9VZ?usp=sharing)|
 | Cecilia Aurora Robelo Hernández | [link de drive](https://drive.google.com/drive/folders/1RxvbnNiIj3fxsCMn9mxGbzruTqmGTIXD?usp=sharing) |
 
 
