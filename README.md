@@ -5,10 +5,10 @@
 # Proyecto IoT - Python y Raspberry Pi
 
 ### 📌 Autores
-| Nombre |  Jennifer Ailin Medina Hernández | Cecilia Aurora Robelo Hernández |
+| Nombre | Bryan Emilio Arredondo López |
 |--------------|--------------|--------------|
-| Numero de control | 1223100426 | 1223100458|
-| Grupo | GDS0652 | GDS0652 |
+| Numero de control | 1223100380 |
+| Grupo | GDS0652 |
 
 
 📅 *Fecha de entrega:* 16/03/2025
