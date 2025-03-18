@@ -6,7 +6,7 @@
 
 ### 📌 Autores
 | Nombre | Bryan Emilio Arredondo López |
-|--------------|--------------|--------------|
+|--------------|--------------|
 | Numero de control | 1223100380 |
 | Grupo | GDS0652 |
 
