@@ -71,8 +71,7 @@ Realización de diagramas de las prácticas de sensores y actuadores realizados 
 
 | Integrante|  imagen |
 |--------------|--------------|
-|Jennifer Ailin Medina Hernández|   |
-| Cecilia Aurora Robelo Hernández | [link de drive](https://drive.google.com/file/d/1uA7GMPoItu00pcs3j5W8EE4cItLiHzYl/view?usp=sharing)|
+| Bryan Emilio Arredondo López | [link de drive](https://drive.google.com/file/d/1uA7GMPoItu00pcs3j5W8EE4cItLiHzYl/view?usp=sharing)|
 
 ## 🎯 Objetivos del Proyecto
 
