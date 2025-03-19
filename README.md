@@ -30,17 +30,15 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 | Integrante | Evaluación Cisco |
 |--------------|--------------|
 
-| Cecilia Aurora Robelo Hernández | ![image](https://github.com/bryanEAL/im-genes/blob/main/imagen_2025-03-18_133538114.png)|
+| Bryan Emilio Arredondo López | ![image](https://github.com/bryanEAL/im-genes/blob/main/imagen_2025-03-18_133538114.png)|
 
-| Integrante | Evaluación de Unidad 2 |
-|--------------|--------------|
-
-| Cecilia Aurora Robelo Hernández | ![Imagen de WhatsApp 2025-03-14 a las 13 17 40_f75ad2ab](https://github.com/user-attachments/assets/2ff03deb-04f1-4bd5-876c-1b3cbf1f5629)|
 
 ### 🛠 Parte Práctica Pareja
 
 #### 🎥 Ejercicios en Clase: Videos Demostrativos 
 Realización de videos prácticos con Sensores y Actuadores 
+
+
 
 ✅ *Evidencias Individuales:*
 
