@@ -71,6 +71,20 @@ Realización de diagramas de las prácticas de sensores y actuadores realizados 
 |--------------|--------------|
 | Bryan Emilio Arredondo López | [link de drive](https://drive.google.com/file/d/1uA7GMPoItu00pcs3j5W8EE4cItLiHzYl/view?usp=sharing)|
 - [Ver video](https://bryanEAL.github.io/U2-Aplicaciones-IoT-2025/)
+- <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproducir Video</title>
+</head>
+<body>
+    <video controls width="640">
+    <source src="https://github.com/bryanEAL/im-genes/blob/main/KY-022.mp4">
+        Tu navegador no soporta el video.
+    </video>
+</body>
+</html>
 
 ## 🎯 Objetivos del Proyecto
 
