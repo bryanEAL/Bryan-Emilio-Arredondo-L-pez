@@ -70,6 +70,7 @@ Realización de diagramas de las prácticas de sensores y actuadores realizados 
 | Integrante|  imagen |
 |--------------|--------------|
 | Bryan Emilio Arredondo López | [link de drive](https://drive.google.com/file/d/1uA7GMPoItu00pcs3j5W8EE4cItLiHzYl/view?usp=sharing)|
+- [Ver video](https://bryanEAL.github.io/U2-Aplicaciones-IoT-2025/)
 
 ## 🎯 Objetivos del Proyecto
 
