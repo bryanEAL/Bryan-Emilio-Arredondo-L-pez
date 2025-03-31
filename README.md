@@ -44,7 +44,7 @@ Realización de videos prácticos con Sensores y Actuadores
 
 | Integrante | Link Drive |
 |-------------|--------------|
-| Cecilia Aurora Robelo Hernández | [link de drive](https://drive.google.com/drive/folders/1RxvbnNiIj3fxsCMn9mxGbzruTqmGTIXD?usp=sharing) |
+| Bryan Emilio Arredondo López| [link de drive](https://drive.google.com/drive/folders/1ZOJgGmN6hhQflK5aSy0OQq9rP-Xm2OoF?usp=sharing) |
 
 
 ✅ *Evidencias Individuales:*
@@ -53,7 +53,7 @@ Realización de diagramas de las prácticas de sensores y actuadores realizados 
 
 | Diagramas| Link Drive |
 |-------------|--------------|
-| 40 Ejercicios | [link de drive](https://docs.google.com/document/d/1y75AMNeXOGVOef9gWzuQ3AwWN3aLlHi__EPXLGG11ck/edit?usp=sharing)|
+| 40 Ejercicios | [link de drive](https://drive.google.com/drive/folders/1ZOJgGmN6hhQflK5aSy0OQq9rP-Xm2OoF?usp=sharing)|
 
 ### 🔧 Ejercicio: Soldadura (Individual) Circuito funcional en placa con LEDS**
 📌 Realización de un circuito funcional en una placa fenólica con leds.
@@ -62,17 +62,17 @@ Realización de diagramas de las prácticas de sensores y actuadores realizados 
 
 | Integrante| Componente | imagen |
 |--------------|--------------|--------------|
-|Jennifer Ailin Medina Hernández| Placa de LEDS Soldada |  <img src= " " width="300"/>|
-| Cecilia Aurora Robelo Hernández | Placa de LEDS Soldada| <img src="https://github.com/user-attachments/assets/b4c5c652-6f13-4f07-b604-6cd4b73de47e" width="300"/>|
+
+| Bryan Emilio Arredondo López | Placa de LEDS Soldada| <img src="https://github.com/user-attachments/assets/b4c5c652-6f13-4f07-b604-6cd4b73de47e" width="300"/>|
 
 ✅ *Evidencias Video de Placa Soldada con Leds:*
 
 | Integrante|  imagen |
 |--------------|--------------|
-| Bryan Emilio Arredondo López | [link de drive](https://drive.google.com/file/d/1uA7GMPoItu00pcs3j5W8EE4cItLiHzYl/view?usp=sharing)|
-- [Ver video](https://bryanEAL.github.io/U2-Aplicaciones-IoT-2025/)
+| Bryan Emilio Arredondo López | [link de drive](https://drive.google.com/drive/folders/1Scrddme5CapPjiwB5oPMlP2I2fTEgNpD?usp=sharing)|
 
-## 🎯 Objetivos del Proyecto
+
+## Objetivos del Proyecto
 
 ✔ Aplicar conceptos de *Python* en un entorno *IoT*.
 
@@ -84,7 +84,7 @@ Realización de diagramas de las prácticas de sensores y actuadores realizados 
 
 ✔ Desarrollar habilidades en *soldadura y electrónica básica*.
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - *Python* 
 - *Node-RED* 
 - *PostgreSQL* 
