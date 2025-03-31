@@ -60,11 +60,6 @@ Realización de diagramas de las prácticas de sensores y actuadores realizados 
 
 ✅ *Evidencias:*
 
-| Integrante| Componente | imagen |
-|--------------|--------------|--------------|
-
-| Bryan Emilio Arredondo López | Placa de LEDS Soldada| <img src="https://github.com/user-attachments/assets/b4c5c652-6f13-4f07-b604-6cd4b73de47e" width="300"/>|
-
 ✅ *Evidencias Video de Placa Soldada con Leds:*
 
 | Integrante|  imagen |
